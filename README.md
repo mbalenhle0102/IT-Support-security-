@@ -55,4 +55,4 @@ While local authentication and firewall policies are correctly configured, the *
 ---
 
 ### About the Author
-**Innocentia Mbalenhle Jiwa** *Technical Support Specialist & Aspiring AI/ML Engineer* Founder of **InnoTech Digital Services**.
+**Innocentia Mbalenhle Jiwa** *Technical Support Specialist & Aspiring AI/ML Engineer*
